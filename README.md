@@ -180,3 +180,6 @@ To deploy production, the following would be needed:
 - logging, monitoring and alerting systems.  
 
 ---
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork the repository, open issues, or submit pull requests to improve the system.
